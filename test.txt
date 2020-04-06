@@ -6,3 +6,5 @@ Git is a helpful tool.
 ace
 
 Create a new branch is quick
+
+Using switch command
