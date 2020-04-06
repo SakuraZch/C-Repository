@@ -8,3 +8,5 @@ ace
 Create a new branch is quick & simple
 
 Using switch command
+
+Create a new branch is quick AND simple.
