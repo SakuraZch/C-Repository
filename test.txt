@@ -5,6 +5,6 @@ Git tracks changes.
 Git is a helpful tool.
 ace
 
-Create a new branch is quick
+Create a new branch is quick & simple
 
 Using switch command
